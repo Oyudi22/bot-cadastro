@@ -1,4 +1,4 @@
-# Bot
+# Automação de Cadastro
 
 Bot de cadastro feito em Python com a biblioteca PyAutoGUI e Time, para incluir funcionários em um sistema, coletando informações para a criação dos e-mails.
 O programa inicia lendo um arquivo especificado dentro da função open(). Sendo um arquivo Txt, separando as informações por vírgulas.
