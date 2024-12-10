@@ -31,3 +31,5 @@ Selecionar o botão de cadastro, Escrever o Nome, Sobrenome, Digitação do E-ma
 Definição da Senha, Finalização do Cadastro, Seleção do email criado, Copia e cola em um arquivo e Pula para próxima linha.
 
 Com esse bot, eu consegui realizar o cadastro de mais de 100 estagiários em 30 minutos, o que demoraria para fazer a mão umas 2 horas
+
+Normalmente é necessário fazer poucos ajustes para que os cliques sejam feitos no lugar correto
